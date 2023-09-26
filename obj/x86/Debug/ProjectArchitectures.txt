@@ -1,0 +1,1 @@
+F:\Project\CustomDictionary\CustomDictionary\CustomDictionary.csproj;x86

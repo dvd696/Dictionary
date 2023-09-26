@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>F:\Project\CustomDictionary\CustomDictionary\Assets\images.png</Source>
+    <SmallTileSource>F:\Project\CustomDictionary\CustomDictionary\Assets\images.png</SmallTileSource>
+    <MediumTileSource>F:\Project\CustomDictionary\CustomDictionary\Assets\images.png</MediumTileSource>
+    <WideTileSource>F:\Project\CustomDictionary\CustomDictionary\Assets\images.png</WideTileSource>
+    <LargeTileSource>F:\Project\CustomDictionary\CustomDictionary\Assets\images.png</LargeTileSource>
+    <AppIconSource>F:\Project\CustomDictionary\CustomDictionary\Assets\images.png</AppIconSource>
+    <SplashScreenSource>F:\Project\CustomDictionary\CustomDictionary\Assets\images.png</SplashScreenSource>
+    <PackageLogoSource>F:\Project\CustomDictionary\CustomDictionary\Assets\images.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
